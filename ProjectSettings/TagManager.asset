@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kitchen
+  - Dish
+  - Chair
+  - Chair
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2216804093
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plants
+    uniqueID: 267725285
+    locked: 0
+  - name: Props
+    uniqueID: 4147156215
+    locked: 0
+  - name: UI
+    uniqueID: 3794232625
+    locked: 0
